@@ -1,0 +1,82 @@
+.frequencyPatternRow
+{
+    border: solid 1px lightgray;
+    padding: 12px;
+}
+
+.frequencyCol
+{
+    border-right: 1px solid lightgrey;
+}
+
+.frequencyPatternRow > p {
+    position: absolute;
+    background: #fff;
+    height: 28px;
+    margin-top: -24px!important;
+    margin-left: 1px;
+    padding: 0 10px;
+    font-weight: 500;
+    width:auto;
+}
+
+.recurrencePopupContainer
+{
+    min-width: 1205px;
+}
+
+.frequencyPatternRowControls
+{
+    margin-top: 13px!important;
+    margin-bottom: 10px!important;
+}
+
+.rangeOfFrequencyRow
+{
+    border: solid 1px lightgray;
+    padding: 12px;
+    margin-top: 24px!important;
+}
+
+.rangeOfFrequencyRow > p {
+    position: absolute;
+    background: #fff;
+    height: 28px;
+    margin-top: -24px!important;
+    margin-left: 1px;
+    padding: 0 10px;
+    font-weight: 500;
+    width:auto;
+}
+
+.rangeRow
+{
+    margin-top: 10px!important;
+}
+
+.frequencyRangeRowControls
+{
+    margin-top: -1px!important;
+    margin-bottom: 6px!important;
+    margin-left: -58px!important;
+}
+
+.recurrenceActions
+{
+    margin-top: 13px!important;
+}
+
+.recurrenceActionButton
+{
+    width: 135px!important;
+}
+
+.recurrenceMSG
+{
+    font-size: larger;
+    display: inline-flex;
+    margin-top: 6px;
+    font-style: oblique;
+    overflow: auto;
+    color: #004e8c;
+}

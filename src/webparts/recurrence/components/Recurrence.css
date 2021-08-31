@@ -1,0 +1,27 @@
+div[class^="recurrenceChoiceField"]>div>div>div.ms-ChoiceField
+{
+    margin-top: 16px;
+    margin-bottom: 2px;
+}
+
+div[class^="recurrenceRangeChoiceField"]>div>div>div.ms-ChoiceField
+{
+    margin-top: 16px;
+    margin-bottom: 2px;
+}
+
+div[class^="recurrenceRangeChoiceField"]
+{
+    margin-top: -16px!important;
+}
+
+i[data-icon-name="Warning"]
+{
+    font-size: 36px;
+}
+
+i[data-icon-name="Info"]
+{
+    font-size: 26px;
+    margin-bottom: 10px;
+}

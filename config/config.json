@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "recurrence-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/recurrence/RecurrenceWebPart.js",
+          "manifest": "./src/webparts/recurrence/RecurrenceWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "RecurrenceWebPartStrings": "lib/webparts/recurrence/loc/{locale}.js"
+  }
+}
