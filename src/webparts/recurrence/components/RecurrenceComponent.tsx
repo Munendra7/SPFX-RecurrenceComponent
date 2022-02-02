@@ -1,11 +1,11 @@
 import * as React from 'react';
 import { IRecurrenceComponentProps, IRecurrenceComponentStates } from '../Models/IRecurrenceComponent';
-import { PrimaryButton, IconButton } from '@fluentui/react/lib/Button';
-import { Modal, DatePicker } from '@fluentui/react';
+import { PrimaryButton, IconButton } from 'office-ui-fabric-react/lib/Button';
+import { Modal, DatePicker } from 'office-ui-fabric-react';
 import * as Const from '../Models/Constants';
-import { ChoiceGroup } from '@fluentui/react/lib/ChoiceGroup';
-import { TextField } from '@fluentui/react/lib/TextField';
-import { Dropdown } from '@fluentui/react/lib/Dropdown';
+import { ChoiceGroup } from 'office-ui-fabric-react/lib/ChoiceGroup';
+import { TextField } from 'office-ui-fabric-react/lib/TextField';
+import { Dropdown } from 'office-ui-fabric-react/lib/Dropdown';
 
 import styles from './RecurrenceComponent.module.scss';
 
@@ -15,7 +15,7 @@ import Calculation from '../DataServices/Calculations';
 
 import "./Recurrence.css";
 
-import { Dialog, DialogType, DialogFooter } from '@fluentui/react/lib/Dialog';
+import { Dialog, DialogType, DialogFooter } from 'office-ui-fabric-react/lib/Dialog';
 
 export default class RecurrenceComponent extends React.Component<IRecurrenceComponentProps, IRecurrenceComponentStates> {
   

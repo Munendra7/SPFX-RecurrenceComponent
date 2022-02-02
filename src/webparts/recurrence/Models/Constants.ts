@@ -1,7 +1,7 @@
-import { getTheme, mergeStyleSets, FontWeights } from '@fluentui/react';
-import { IButtonStyles } from '@fluentui/react/lib/Button';
-import { IChoiceGroupOption } from '@fluentui/react/lib/ChoiceGroup';
-import { IDropdownOption } from '@fluentui/react/lib/Dropdown';
+import { getTheme, mergeStyleSets, FontWeights } from 'office-ui-fabric-react';
+import { IButtonStyles } from 'office-ui-fabric-react/lib/Button';
+import { IChoiceGroupOption } from 'office-ui-fabric-react/lib/ChoiceGroup';
+import { IDropdownOption } from 'office-ui-fabric-react/lib/Dropdown';
 
 import Calculation from '../DataServices/Calculations';
 
