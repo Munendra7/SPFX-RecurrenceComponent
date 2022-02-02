@@ -34,6 +34,7 @@ If you want to save the recurrence pattern in sharepoint, I will suggest you to 
 
 Supported node version :- v14.17.0
 ![v14.17.0](https://img.shields.io/npm/v/@microsoft/sp-component-base/latest?color=green)
+
 https://nodejs.org/dist/v14.17.0/node-v14.17.0-x64.msi
 
 ## Applies to
@@ -58,9 +59,11 @@ Version|Date|Comments
 ## Minimal Path to Awesome
 
 - Clone this repository
+
 `git clone "https://github.com/Munendra7/SPFX-RecurrenceComponent.git"`
 - Ensure that you are at the solution folder
 - in the command-line run:
+
   `npm install`
   `gulp serve`
 
