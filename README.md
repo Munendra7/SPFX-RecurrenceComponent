@@ -40,13 +40,6 @@ Supported node version :- v14.17.0
 
 > Get your own free development tenant by subscribing to [Microsoft 365 developer program](http://aka.ms/o365devprogram)
 
-
-## Solution
-
-Solution|Author(s)
---------|---------
-folder name | Author details (name, company, twitter alias with link)
-
 ## Version history
 
 Version|Date|Comments
