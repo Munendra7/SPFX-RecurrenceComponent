@@ -33,7 +33,8 @@ If you want to save the recurrence pattern in sharepoint, I will suggest you to 
 ## Used SharePoint Framework Version
 
 Supported node version :- v14.17.0
-![version](https://img.shields.io/npm/v/@microsoft/sp-component-base/latest?color=green)
+![v14.17.0](https://img.shields.io/npm/v/@microsoft/sp-component-base/latest?color=green)
+https://nodejs.org/dist/v14.17.0/node-v14.17.0-x64.msi
 
 ## Applies to
 
