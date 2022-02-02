@@ -18,9 +18,11 @@ For Example:- Start Date is 2nd Feb 2022 and you have selected Quaterly as your 
 ![image](https://user-images.githubusercontent.com/89851958/152211668-3b292f1c-db79-46a7-9f5b-aea4daacf5b2.png)
 
 3. Based on your end date it will automatically calculate the onumber of ocurrence of task or if you have selected Number of Ocurrences as end date it will automatically calculate the end date of the recurring task after saving.
+
 ![image](https://user-images.githubusercontent.com/89851958/152212092-3de137fb-dbc4-43ac-b74e-cbd2b0dd5c4b.png)
 
 4. After saving it will show the pattern which is selected below the button.
+
 ![image](https://user-images.githubusercontent.com/89851958/152212183-fc24fb4d-4828-4914-a401-6e6210a58f07.png)
 
 
@@ -55,10 +57,11 @@ Version|Date|Comments
 ## Minimal Path to Awesome
 
 - Clone this repository
+`git clone "https://github.com/Munendra7/SPFX-RecurrenceComponent.git"`
 - Ensure that you are at the solution folder
 - in the command-line run:
-  - **npm install**
-  - **gulp serve**
+  `npm install`
+  `gulp serve`
 
 
 ## References
