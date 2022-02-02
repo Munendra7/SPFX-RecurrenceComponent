@@ -2,9 +2,16 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+This Solution allows you to use Recurrence Control which is similar to outlook's Recurrence functionality.
 
 [picture of the solution in action, if possible]
+
+About Control:-
+
+1. This control will have a button which will open a recurrence popup.
+![image](https://user-images.githubusercontent.com/89851958/152210682-24685c17-bab3-4163-9bdb-4d8aa2dccd7f.png)
+![image](https://user-images.githubusercontent.com/89851958/152210912-2c4175ac-d446-4d07-a9c0-df8ce1d1a4e5.png)
+
 
 ## Used SharePoint Framework Version
 
