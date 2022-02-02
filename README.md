@@ -1,4 +1,4 @@
-# recurrence
+# SPFX Recurrence Component
 
 ## Summary
 
